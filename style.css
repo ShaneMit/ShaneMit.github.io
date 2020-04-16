@@ -1,0 +1,24 @@
+    h1 {
+      font-size: 100px;
+      text-align: center;
+    }
+
+    #headingone {
+      color: green;
+      background-color: black;
+    }
+
+    .goodbye {
+      color: black;
+      background-color: green;
+    }
+
+    p {
+      font-size: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .topheader {
+      height: 200px;
+      width: 800px;
+    }
